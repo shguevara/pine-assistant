@@ -1,4 +1,5 @@
 Flask==3.0.3
+pinecone-plugin-assistant
 pinecone==5.0.1
 pinecone-plugin-inference==1.1.0
 pinecone-plugin-interface==0.0.7
